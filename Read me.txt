@@ -1,0 +1,15 @@
+need to change
+core.php, logout.php, index.php
+header('location: http://localhost:9080/stock/index.php');	
+
+[  ] Maintaining balance of stock is 5 pag naging 4 automatic it must be reported as running low or low on stock
+[  ] Different accounts for admin and clients
+[  ] Complete cycle per users
+[  ] Cancel order
+[  ] Two way 
+[  ] It should be one system (nandoon na lahat)
+[  ] Direct to excel 
+[  ] Flexibility 
+[  ] Fast moving items and slow moving items
+[  ] + and - button besides action button to decrease and increase the quantity of the product
+[  ] Paayos yung function na kapag nag add ng order kasi nag miminus pag nag aadd ng order
